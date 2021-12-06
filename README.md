@@ -9,6 +9,7 @@
 - ~/.aws/config 에서
 
 [default]
+
 region = YOUR_REGION 
 
 입력
