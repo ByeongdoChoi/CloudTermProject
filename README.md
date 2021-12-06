@@ -6,7 +6,7 @@
 
 -메이븐 설치
 
-- - ~/.aws/config 에서
+- ~/.aws/config 에서
 [default]
 region = YOUR_REGION 
 입력
