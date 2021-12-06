@@ -10,6 +10,7 @@
 
 [default]
 region = YOUR_REGION 
+
 입력
 
 - ~/.aws/credentials 에서
